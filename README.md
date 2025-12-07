@@ -1,5 +1,5 @@
-# lliillli.github.io
-ESE5190 final report website
-[video](https://drive.google.com/file/d/1OxCNUOv104NPlGW3K9_btHVaHvuEmDWO/view?usp=drive_link)
+# 1. Final project Video
+You can find our project video by clicking this [link](https://drive.google.com/file/d/1OxCNUOv104NPlGW3K9_btHVaHvuEmDWO/view?usp=drive_link) or watching the video below: 
 <iframe src="https://drive.google.com/file/d/1OxCNUOv104NPlGW3K9_btHVaHvuEmDWO/view?usp=drive_link"
-        width="720" height="480" allow="autoplay"></iframe>
+        width="1280" height="960" allow="autoplay"></iframe>
+# 2. Final Projects Images
